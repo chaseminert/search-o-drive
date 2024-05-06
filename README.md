@@ -17,13 +17,15 @@ Search O Drive is a GUI application developed for Transportation Compliance Serv
 - **Batch Scripting**: Facilitates the automatic update process.
 - **Syspin**: A CLI utility that manages pinning the application to the taskbar.
 
-## Demo
-TBD
+## Screenshots
+![image](https://github.com/chaseminert/search-o-drive/assets/155914646/50336b6e-b60b-45f6-a700-5c69bbf97997)
+![image](https://github.com/chaseminert/search-o-drive/assets/155914646/8240dd60-215d-4d49-97a8-e12834155340)
+
 
 ## Challenges and Solutions
 - **Learning GUI Development**: The transition to GUI development was initially challenging. Through diligent study and application of CustomTkinter documentation and examples, a modern and intuitive interface was created.
 - **Implementing Dynamic Search**: Developing a responsive search suggestion list required innovative use of listbox updates based on user input, significantly enhancing the search efficiency.
-- **Directory Loading**: Mapped display names to specific attributes using dictionaries to accurately load the correct company directories upon selection.
+- **Directory Loading**: Mapped display names to specific directories using dictionaries to accurately load the correct company directories upon selection.
 - **Deployment and Updates**: Addressed the need for easy deployment and updates among non-technical users by packaging the application with PyInstaller and creating a user-friendly batch script for automated updates.
 
 ## Impact and Significance
