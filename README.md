@@ -18,8 +18,9 @@ Search O Drive is a GUI application developed for Transportation Compliance Serv
 - **Syspin**: A CLI utility that manages pinning the application to the taskbar.
 
 ## Screenshots
-![image](https://github.com/chaseminert/search-o-drive/assets/155914646/50336b6e-b60b-45f6-a700-5c69bbf97997)
 ![image](https://github.com/chaseminert/search-o-drive/assets/155914646/8240dd60-215d-4d49-97a8-e12834155340)
+<br>
+![image](https://github.com/chaseminert/search-o-drive/assets/155914646/50336b6e-b60b-45f6-a700-5c69bbf97997)
 
 
 ## Challenges and Solutions
